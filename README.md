@@ -1,5 +1,4 @@
 # hello-world
-Repository to learn the process
 
 Hi, I'm Pete. 
 
